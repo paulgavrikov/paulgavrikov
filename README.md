@@ -1,6 +1,6 @@
 ### Hi there I'm Paul👋
 
-🔭 I’m currently working on computer vision, particularly regarding efficiency, and adversarial robustness.
+🔭 I’m working on computer vision, particularly with visual priors for efficiency and out-of-distribution generalization.
 
 <!--
 **paulgavrikov/paulgavrikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
