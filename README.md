@@ -1,6 +1,6 @@
 ### Hi there I'm Paul👋
 
-🔭 I’m working on computer vision, particularly with visual priors for efficiency and out-of-distribution generalization.
+🔭 I’m working on computer vision, with a particular focus on investigating the internal representations of deep neural networks, improving their training dynamics, evaluating their robustness, and delving into their generalization abilities.
 
 <!--
 **paulgavrikov/paulgavrikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
