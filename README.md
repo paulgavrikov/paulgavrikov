@@ -1,6 +1,6 @@
 ### Hi there I'm Paul👋
 
-🔭 I’m working on computer vision, with a particular focus on investigating the internal representations of deep neural networks, improving their training dynamics, evaluating their robustness, and delving into their generalization abilities.
+🔭 I am an independent researcher specializing in multi-modal vision systems.
 
 <!--
 **paulgavrikov/paulgavrikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
