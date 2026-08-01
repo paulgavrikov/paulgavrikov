@@ -1,6 +1,6 @@
-### Hi there I'm Paul👋
+### Hi there, I'm Paul👋
 
-🔭 I am an independent researcher specializing in multi-modal vision systems.
+🔭 I am a postdoctoral researcher at KAUST in Saudi Arabia specializing in multi-modal vision systems, specifically their robustness, biases, and capabilities to generalize.
 
 <!--
 **paulgavrikov/paulgavrikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
